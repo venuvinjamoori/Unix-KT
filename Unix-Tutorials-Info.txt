@@ -1,0 +1,13 @@
+ 
+Hi,
+
+Unix :
+
+http://www.doc.ic.ac.uk/~wjk/UnixIntro/index.html
+
+Shell scripting :
+
+http://www.freeos.com/guides/lsst/
+
+Hi guys above is the useful 
+Linux Shell Scripting Tutorial
